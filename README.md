@@ -19,112 +19,29 @@ I enjoy building and deploying applications, working with Linux and Docker, lear
 - 🐧 Comfortable with **Linux & Ubuntu/WSL**
 - 🐳 Learning and working with **Docker**
 - 🌐 Building knowledge in **Networking & Cloud Infrastructure**
-- 📊 Interested in **Monitoring, Observability & Cloud Operations**
+- 📊 Interested in **Cloud Infrastructure, Automation & Scalable Systems**
 - 🔧 Learning **DevOps practices and automation**
 - 🏗️ Long-term goal: **Solutions Architect**
 - 💡 Interested in building production-oriented cloud projects
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## ☁️ Cloud
+### ☁️ Cloud
+AWS · EC2 · S3 · IAM · VPC · CloudWatch
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🐧 Infrastructure
+Linux · Ubuntu · Networking · Shell Scripting
 
-### AWS Services I've Worked With / Learned
+### 🐳 DevOps
+Docker · Git · GitHub · GitHub Actions · Terraform
 
-- EC2
-- S3
-- IAM
-- CloudFront
-- VPC
-- EBS
-- Lambda
-- Route 53
-- CloudWatch
+### 📊 Observability
+Prometheus · Grafana · Alertmanager
 
-Currently strengthening my understanding of:
+### 💻 Programming
+Python · Java · JavaScript
 
-- AWS Networking
-- Compute
-- Storage
-- IAM & Security
-- Monitoring
-- High Availability
-- Cloud Architecture
-
----
-
-## 🐧 Linux & System Administration
-
-- Linux fundamentals
-- Ubuntu
-- WSL
-- File system management
-- Users & permissions
-- Processes
-- Services
-- Package management
-- Shell commands
-- Basic Shell Scripting
-- System monitoring
-- Networking commands
-
----
-
-## 🐳 Containers
-
-- Docker
-- Docker Images
-- Docker Containers
-- Dockerfile
-- Docker Compose
-- Container Networking
-- Volumes
-- Multi-stage Docker Builds
-- Containerized Web Applications
-
-Currently improving:
-
-- Docker production practices
-- Container security
-- Container orchestration
-- Kubernetes
-
----
-
-## 🌐 Networking
-
-Currently building strong fundamentals in:
-
-- IP Addressing
-- Subnetting
-- DNS
-- HTTP / HTTPS
-- TCP / UDP
-- Ports
-- OSI Model
-- Routing
-- Firewalls
-- Load Balancing
-- Reverse Proxy
-- VPC Networking
-- Public & Private Subnets
-
----
-
-## 🔧 DevOps
-
-Currently learning and building practical experience with:
-
-- Git
-- GitHub
-- Docker
-- CI/CD concepts
-- GitHub Actions
-- Infrastructure as Code
-- Terraform
-- Monitoring & Observability
-- Deployment Automation
-
+### 🌐 Development
+Django · FastAPI · React · Next.js · MySQL
