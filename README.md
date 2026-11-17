@@ -1,6 +1,6 @@
 # Hi, I'm Suraj Vishwakarma 👋
 
-### Cloud Engineer | DevOps Enthusiast | Future Solutions Architect ☁️
+### Cloud Engineer | DevOps Enthusiast | Future Platform Engineer
 
 I'm a Computer Engineering student passionate about **Cloud Computing, DevOps, Infrastructure, Monitoring, and Distributed Systems**.
 
